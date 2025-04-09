@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/kirajano/cwe-89-mock/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/kirajano/cwe-89-mock/actions/workflows/codeql-analysis.yml)
+
 ## CWE-89
 
 Mock scenario to exploit SQL injection
